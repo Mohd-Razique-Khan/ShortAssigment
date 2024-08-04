@@ -1,0 +1,27 @@
+{
+  "personalInformation": {
+    "name": "Mohd Razique Khan",
+    "address": "Bara Kalan,Jaunpur UP",
+    "phoneNumber": "9795955618",
+    "email": "raziquekhan043@gmail.com"
+  },
+  "education": [
+    {
+      "degree": "B-tech in CSE",
+      "institution": "Lovely Professional University",
+      "year": "2021"
+    }
+  ],
+  "skills": [
+    "C++",
+    "JAVA",
+    "Python"
+  ],
+  "certifications": [
+    {
+      "certificationName": "Machine Learning",
+      "issuingOrganization": "Lovely Professional University",
+      "date": "2023-06"
+    }
+  ]
+}
